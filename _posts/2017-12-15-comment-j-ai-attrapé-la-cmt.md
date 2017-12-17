@@ -4,7 +4,8 @@ category:
 title: "Comment j'ai attrapé la CMT"
 tagline: 
 tags : [] 
-published: 
+published: false
+---
 # Il est bizarre ce gars là! #
 
 Si vous me croisez un jour en rue, vous pourrez vous douter qu'il y'a quelque chose qui ne tourne pas rond chez moi. Vous penserez peut-être que j'ai bu trop d'alcool. 
